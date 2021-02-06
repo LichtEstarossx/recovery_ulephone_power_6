@@ -31,7 +31,7 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := Power_6
-PRODUCT_NAME := Power_6_EEA
+PRODUCT_NAME := omni_Power_6
 PRODUCT_BRAND := Ulefone
 PRODUCT_MODEL := Power_6
 PRODUCT_MANUFACTURER := ulefone
